@@ -1,1 +1,1 @@
-# leetcode-data
+![Leetcode Stats](https://leetcard.jacoblin.cool/muditmudit)
